@@ -1,0 +1,8 @@
+*.npy
+*.h5
+*.hdf5
+*.txt
+*.pyc
+*.local
+*.ipynb_checkpoints
+*.ipynb
